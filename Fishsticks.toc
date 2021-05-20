@@ -1,0 +1,10 @@
+## Interface: 90001
+## Title: Fishsticks
+## Author: Cake
+## Version: 1.0.0
+## Notes: Custom Textures and sounds.
+## X-Category: Interface Enhancements
+## DefaultState: Enabled
+## Dependencies: WeakAuras, WeakAurasOptions
+
+Fishsticks.lua
